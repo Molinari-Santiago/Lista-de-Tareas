@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(190, 116, 233);
+    font-family: monospace;
+    color: black;
+}
+.carta{
+    background-color:rgb(216, 87, 205) ;
+    margin-top: 300px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-self: center;
+    border: none;
+    border-radius: 15px;
+}#agregar{
+    width: 400px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    text-align: left;
+    font-size: large;
+ }
+ 
+ button{
+     height: 20px;
+     width: auto;
+     border-radius: 4px;
+     border: none;
+     font-size:large;
+     color: rgb(255, 255, 255);
+     background-color: rgb(88, 33, 140);
+ }
+ 
+ label{
+     display:inline;
+     margin: 20px;
+     font-size: large;
+ }
+ 
+ ul{
+     list-style: none;
+ }
+ 
+ #ltarea li input {
+    height: 20px;
+    width:20px;
+    font-size: larger;
+ }
+ 
